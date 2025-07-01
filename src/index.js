@@ -34,6 +34,7 @@ while (true) {
             await cartService.calculateTotal(myCart);
         } else if (action === '6') {
             console.log("\nSaindo do carrinho\n");
+            rl.close();
             break;
         } else {
             console.log("\nAção inválida, tente novamente.\n");
