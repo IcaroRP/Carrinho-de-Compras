@@ -18,7 +18,7 @@ Este é um projeto em Node.js para gerenciar um carrinho de compras. Ele permite
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/carrinho-de-compras.git
+    git clone https://github.com/IcaroRP/Carrinho-de-Compras.git
     ```
 2. Instale as dependências:
     ```bash
@@ -39,11 +39,3 @@ src/
 ├── app.js
 └── README.md
 ```
-
-## Contribuição
-
-Sinta-se à vontade para abrir issues e enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
